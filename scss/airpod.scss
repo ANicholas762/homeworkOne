@@ -1,0 +1,77 @@
+.banner-airpod {
+    width: 100%;
+    height: 800px;
+    background-color: #ffff;
+    position: relative;
+
+    .airpod-hero {
+        position: absolute;
+        width: 100%;
+        height: 800px;
+        background-color: black;
+        background-image: url(../images/Screen\ Shot\ 2022-09-05\ at\ 2.43.14\ AM.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+.pros {
+    width: 400px;
+    height: 500px;
+    background-color: #ffff;
+    position: relative;
+
+    .proimg {
+        position: absolute;
+        top: 20px;
+        width: 1200px;
+        height: 500px;
+        left: 280px;
+        background-color: black;
+        background-image: url(../images/Screen\ Shot\ 2022-09-05\ at\ 12.33.31\ AM.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+.overear {
+    width: 400px;
+    height: 500px;
+    background-color: #ffff;
+    position: relative;
+
+    .overearimg {
+        position: absolute;
+        margin-top: 20px;
+        width: 1200px;
+        height: 500px;
+        left: 280px;
+        // background-color: black;
+        background-image: url(../images/Screen\ Shot\ 2022-09-05\ at\ 12.33.44\ AM.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+.pods {
+    width: 400px;
+    height: 600px;
+    background-color: #ffff;
+    position: relative;
+
+    .podimg {
+        position: absolute;
+        margin-top: 20px;
+        width: 1200px;
+        height: 600px;
+        left: 280px;
+        // background-color: black;
+        background-image: url(../images/Screen\ Shot\ 2022-09-05\ at\ 12.33.56\ AM.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
